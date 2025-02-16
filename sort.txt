@@ -1,0 +1,7 @@
+int aiuiui(void){
+    
+}
+
+void main(void){
+    int aiuiui;
+}
